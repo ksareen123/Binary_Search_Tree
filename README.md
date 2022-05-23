@@ -1,2 +1,4 @@
 # Binary_Search_Tree
-SCHOOL RELATED
+# SCHOOL RELATED
+
+Binary Search Tree Implementation
